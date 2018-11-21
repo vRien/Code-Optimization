@@ -15,51 +15,51 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\Enemy.cpp">
+    <ClCompile Include="Enemy.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\Game.cpp">
+    <ClCompile Include="InputHandler.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\InputHandler.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\main.cpp">
+    <ClCompile Include="Player.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\Player.cpp">
+    <ClCompile Include="Game.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\SDLGameObject.cpp">
+    <ClCompile Include="SDLGameObject.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\TextureManager.cpp">
+    <ClCompile Include="TextureManager.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\Enemy.h">
+    <ClInclude Include="Enemy.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\Game.h">
+    <ClInclude Include="Game.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\InputHandler.h">
+    <ClInclude Include="LoaderParams.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\LoaderParams.h">
+    <ClInclude Include="Player.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\Player.h">
+    <ClInclude Include="SDLGameObject.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\SDLGameObject.h">
+    <ClInclude Include="TextureManager.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\TextureManager.h">
+    <ClInclude Include="Vector2D.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\20171118\GameFramework\PP01.HelloSDL\Vector2D.h">
+    <ClInclude Include="InputHandler.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
